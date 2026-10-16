@@ -12,7 +12,7 @@
 
 ### `> whoami`
 
-I'm **1Nox1**, an independent technology builder exploring the intersection of artificial intelligence, software engineering, and automation.
+I'm **NORBERT**, an independent technology builder exploring the intersection of artificial intelligence, software engineering, and automation.
 
 I enjoy turning ideas into useful digital products—from browser-based applications and intelligent workflows to AI-powered tools and interactive experiences.
 
